@@ -1,0 +1,7 @@
+/Users/sasastudic/Desktop/untitled folder/OPERATING SYSTEM NOVARIA/kernel-cpp/build/CMakeFiles/novaria-kernel.dir
+/Users/sasastudic/Desktop/untitled folder/OPERATING SYSTEM NOVARIA/kernel-cpp/build/CMakeFiles/iso.dir
+/Users/sasastudic/Desktop/untitled folder/OPERATING SYSTEM NOVARIA/kernel-cpp/build/CMakeFiles/run.dir
+/Users/sasastudic/Desktop/untitled folder/OPERATING SYSTEM NOVARIA/kernel-cpp/build/CMakeFiles/debug.dir
+/Users/sasastudic/Desktop/untitled folder/OPERATING SYSTEM NOVARIA/kernel-cpp/build/CMakeFiles/clean-all.dir
+/Users/sasastudic/Desktop/untitled folder/OPERATING SYSTEM NOVARIA/kernel-cpp/build/CMakeFiles/edit_cache.dir
+/Users/sasastudic/Desktop/untitled folder/OPERATING SYSTEM NOVARIA/kernel-cpp/build/CMakeFiles/rebuild_cache.dir
